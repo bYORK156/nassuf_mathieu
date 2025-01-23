@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+   font-family: var(--font-family-sans-serif);
+ 
+ 
+    color: #858796 !important;
+   
+    background-color: #fff;
+  }
+ 
+  .card-body{
+    color: var(--gray) !important;
+  }
